@@ -19,7 +19,7 @@ Welcome to the GitHub repository for "Gemini Pro Unleashed"! 🌟 In this projec
 ## Get Started:
 1. **Clone the Repository:**
 ```bash
-git clone https://github.com/Elangovan0101/Chat-Buddy---chatbot.git
+git clone https://github.com/Elangovan0101/Chat-Buddy-chatbot.git
 ```
 
 2. **Install Dependencies:**
