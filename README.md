@@ -34,5 +34,5 @@ git clone https://github.com/Elangovan0101/Chat-Buddy---chatbot.git
 
 3. **Run the Code:**
  ```bash
- streamlit run Gemini.py
+ streamlit run main.py
 ```
